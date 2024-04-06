@@ -57,7 +57,7 @@ window.addEventListener('DOMContentLoaded', () => {
     }
   
     resizableSwiper(
-      '(max-width: 400px)',
+      '(max-width: 500px)',
       '.steps__slider',
       {
         slidesPerView: 1,
